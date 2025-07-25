@@ -1,0 +1,19 @@
+{
+  "name": "beel2",
+  "version": "1.0.0",
+  "description": "backend lecture 2",
+  "main": "hi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "[\"bee\"",
+    "\"l2\"",
+    "\"sem5\"]"
+  ],
+  "author": "radhika",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
